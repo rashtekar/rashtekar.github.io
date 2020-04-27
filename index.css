@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  color: antiquewhite;
+}
+p {
+  color: black;
+  font-size:10vw;
+  font-family: "Verdana", Geneva, sans-serif;
+  text-align: center;
+  padding: 70px 0;
+}
