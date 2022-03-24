@@ -1,2 +1,2 @@
-# ashtekarr.github.io
+# rashtekar.github.io
 Personal website
